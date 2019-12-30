@@ -1,0 +1,1 @@
+This is Igal's first Git project!
